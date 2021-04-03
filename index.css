@@ -1,14 +1,19 @@
 .hero-banner {
-    background-image: url("background_kopi.jpg");
+    background-image: url("https://i.ytimg.com/vi/ZT0WvEhjFmw/maxresdefault.jpg");
     background-size: cover;
-    height: 500px;
+    height: 800px;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .text-bento {
     font-weight: bold;
-    color: whitesmoke;
+    color: brown;
+}
+
+.text-bento-desc {
+    font-weight: bold;
+    color: green;
 }
 
 .button-menu {
